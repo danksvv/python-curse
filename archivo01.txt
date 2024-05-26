@@ -1,3 +1,4 @@
+This is other line more new , wonderfull !
 hola desde este archivo de Hola mundo con Nicolas
 hola desde otra linea de fichero para ver si funciona el git correctamente...
 this is other line outside
